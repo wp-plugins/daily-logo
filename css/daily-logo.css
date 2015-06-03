@@ -1,0 +1,24 @@
+/* ADMIN SETTINGS PAGE */
+p {margin: 0 0 20px 0}
+table tr:hover{background: #EDEDED}
+.options-column {width: 150px}
+.label-column label {display: block; height:30px}
+.legend_description {margin-bottom: 20px !important}
+.legend_description em {font-weight: bold; font-style: italic; text-decoration: underline;}
+.legend_conditional_tags_description {margin-top: 10px !important; margin-left: 15px !important}
+.legend_code {background-color: #E0E0E0; display: inline-block; padding: 5px; margin: 0 0 0 10px;}
+.legend_code code {padding: 0; margin: 0; background: inherit; font-size: 14px;}
+.daily-image {max-height: 100px}
+
+/* BUTTONS ANS INPUTS */
+label.error {
+    display: block;
+    padding: 5px 0;
+    color: #FF0000;
+    font-style: italic;
+}
+
+#daily_logo_settings textarea {
+    width: 100%;
+    height: 100px;
+}

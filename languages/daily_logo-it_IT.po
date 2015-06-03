@@ -1,0 +1,292 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Daily logo\n"
+"POT-Creation-Date: 2015-05-12 21:54+0100\n"
+"PO-Revision-Date: 2015-05-12 21:54+0100\n"
+"Last-Translator: Andrea Landonio <landonio.andrea@gmail.com>\n"
+"Language-Team: Andrea Landonio <landonio.andrea@gmail.com>\n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /home/lando/Progetti/Wordpress/Plugins/daily-logo\n"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-database.php:50
+msgid "Modify"
+msgstr "Modifica"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-database.php:51
+msgid "Delete"
+msgstr "Elimina"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:44
+msgid "Daily logo management"
+msgstr "Impostazioni daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:48
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:155
+msgid ""
+"In this page you can manage all the logos. First of all you can create a new "
+"logo completing the following form. After you have filled all your logo's "
+"data, by clicking the \"save\" button your logo's information will be stored "
+"on database. You can see it in the list table in the bottom of this page. "
+"Use the list table options to edit or delete a logo.<br /><span class="
+"\"description\">Note: There are only two required fields, the logo name and "
+"the logo date.</span>"
+msgstr ""
+"In questa pagina puoi gestire tutti i loghi. Innanzitutto puoi creare un "
+"nuovo logo completando la form sottostante. Dopo aver compilato tutti i dati "
+"richiesti, cliccando il tasto \"salva\" le informazioni del logo verranno "
+"salvate su database. Puoi verificarle nella lista dei loghi visualizzata in "
+"fondo alla pagina. Usa le opzioni nella lista per editare o cancellare un "
+"logo.<br /><span class=\"description\">Nota: Ci sono solo due campi "
+"obbligatori, il nome del logo e la data di visualizzazione del logo.</span>"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:60
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:248
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:259
+msgid "Name"
+msgstr "Nome"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:63
+msgid "Provide a name for the logo"
+msgstr "Inserisci un nome per il logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:63
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:70
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:167
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:174
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:181
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:188
+msgid "(* required)"
+msgstr "(* obbligatorio)"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:67
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:249
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:260
+msgid "Date"
+msgstr "Data"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:70
+msgid "Provide the date of the logo"
+msgstr "Inserisci una data per il logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:74
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:250
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:261
+msgid "Link"
+msgstr "Link"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:77
+msgid "Open in a new window?"
+msgstr "Apri in una nuova finestra?"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:79
+msgid "Provide the link used in the logo hyperlink"
+msgstr "Inserisci un link da usare nell'hyperlink del logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:83
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:251
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:262
+msgid "Image"
+msgstr "Immagine"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:86
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:94
+msgid "Upload"
+msgstr "Upload"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:87
+msgid "Enter an URL or upload an image for the logo"
+msgstr "Inserisci una URL o carica una immagine per il logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:91
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:252
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:263
+msgid "Alternative image"
+msgstr "Immagine alternativa"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:95
+msgid ""
+"Enter an URL or upload an alternative image for the logo (used with "
+"alternative template layout"
+msgstr "Inserisci una URL o carica una immagine per il logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:99
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:253
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:264
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:102
+msgid "Provide a custom CSS class used in the logo HTML markup"
+msgstr ""
+"Inserisci una class CSS da applicare nel markup dell'hyperlink del il logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:109
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:230
+msgid "Save"
+msgstr "Salva"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:112
+msgid "Logo list"
+msgstr "Lista loghi"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:114
+msgid ""
+"In the following table you can see all the existing logo ordered by date. "
+"Beside every row you have two option to modify a logo information or delete "
+"it from database."
+msgstr ""
+"Nella tabella seguente puoi vedere tutti i loghi esistenti ordinati per "
+"data. Accanto ad ogni riga hai due opzioni per modificare le informazioni di "
+"un logo o cancellarlo dal database."
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:143
+msgid "Daily logo settings"
+msgstr "Impostazioni daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:164
+msgid "Template without daily logo"
+msgstr "Template senza daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:167
+msgid ""
+"Provide the logo HTML template used if no daily logo exists. Do not use PHP "
+"code or WordPress functions, please provide only static text."
+msgstr ""
+"Inserisci il template HTML da utilizzare se non è presente un logo. Non "
+"usare codice PHP o funzioni WordPress, inserisci solo testo statico."
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:171
+msgid "Alternative template without daily logo"
+msgstr "Template alternativo senza daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:174
+msgid ""
+"Provide an alternative logo HTML template used if no daily logo exists. The "
+"alternative logo should be used to manage different templates and layouts, "
+"for example: desktop layout or mobile layout. If you don't use different "
+"layouts please fill the same value of the above field. Do not use PHP code "
+"or WordPress functions, please provide only static text."
+msgstr ""
+"Inserisci il template HTML alternativo da utilizzare se non è presente un "
+"logo. Il logo alternativo dovrebbe essere usato per gestire layout "
+"differenti, per esempio: layout desktop o layout mobile. Se non usi layout "
+"differenti inserisci lo stesso valore del campo precedente. Non usare codice "
+"PHP o funzioni WordPress, inserisci solo testo statico."
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:178
+msgid "Template with daily logo"
+msgstr "Template con daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:181
+msgid ""
+"Provide the logo HTML template used if a daily logo exists. Do not use PHP "
+"code or WordPress functions, please provide only static text."
+msgstr ""
+"Inserisci il template HTML da utilizzare se è presente un logo. Non usare "
+"codice PHP o funzioni WordPress, inserisci solo testo statico."
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:185
+msgid "Alternative template with daily logo"
+msgstr "Template alternativo con daily logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:188
+msgid ""
+"Provide an alternative logo HTML template used if a daily logo exists. The "
+"alternative logo should be used to manage different templates and layouts, "
+"for example: desktop layout or mobile layout. If you don't use different "
+"layouts please fill the same value of the above field. Do not use PHP code "
+"or WordPress functions, please provide only static text."
+msgstr ""
+"Inserisci il template HTML alternativo da utilizzare se  è presente un logo. "
+"Il logo alternativo dovrebbe essere usato per gestire layout differenti, per "
+"esempio: layout desktop o layout mobile. Se non usi layout differenti "
+"inserisci lo stesso valore del campo precedente. Non usare codice PHP o "
+"funzioni WordPress, inserisci solo testo statico."
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:192
+msgid "Legend"
+msgstr "Legenda"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:194
+msgid "##LINK##"
+msgstr "##LINK##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:195
+msgid "A placeholder to set logo link"
+msgstr "Un placeholder per impostare il link del logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:196
+msgid "##NAME##"
+msgstr "##NAME##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:197
+msgid "A placeholder to set logo name"
+msgstr "Un placeholder per impostare il nome del logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:198
+msgid "##TARGET##"
+msgstr "##TARGET##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:199
+msgid "A placeholder to set logo link target"
+msgstr "Un placeholder per impostare il target del link del logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:200
+msgid "##CLASS##"
+msgstr "##CLASS##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:201
+msgid "A placeholder to set logo custom CSS class"
+msgstr "Un placeholder per impostare una classe personalizzata al logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:202
+msgid "##IMAGE##"
+msgstr "##IMAGE##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:203
+msgid "A placeholder to set logo image"
+msgstr "Un placeholder per impostare l'immagine del logo"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:205
+msgid "Conditional tags"
+msgstr "Tags condizionali"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:207
+msgid "A placeholder to insert a conditional tag"
+msgstr "Un placeholder per impostare tags condizionali"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:208
+msgid "You can insert <em>only one</em> of the following conditional tag:"
+msgstr "Puoi inserire <em>solo uno</em> dei seguenti tags condizionali:"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:210
+msgid "##HAS_IMAGE##"
+msgstr "##HAS_IMAGE##"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:211
+msgid "A placeholder to check if logo has image"
+msgstr "Un placeholder per controllare se il logo ha una immagine impostata"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:215
+msgid "Default template"
+msgstr "Default template"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:216
+msgid ""
+"The standard template used by the plugin for the daily logo HTML snippet"
+msgstr "Il template standard usato dal plugin come porzione di HTML di default"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:231
+msgid "Restore"
+msgstr "Ripristina"
+
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:254
+#: /home/lando/Progetti/Wordpress/Plugins/daily-logo/daily-logo-settings.php:265
+msgid "Options"
+msgstr "Opzioni"
