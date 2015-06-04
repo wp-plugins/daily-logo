@@ -17,7 +17,9 @@ jQuery(document).ready(function() {
 
     window.send_to_editor = function(html) {
         var img_url = jQuery('img', html).attr('src');
+        if (img_url == undefined || img_url == '') img_url = jQuery(html).attr('src');
         var img_frame = jQuery('#image_frame').val();
+
         jQuery('#' + img_frame).val(img_url);
         tb_remove();
     };
