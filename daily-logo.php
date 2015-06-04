@@ -124,6 +124,7 @@ add_action( 'admin_menu', 'daily_logo_setting_menu' );
 function daily_logo_admin_custom_css() {
 	// Enqueue date picker CSS
 	// wp_enqueue_style( 'jquery-ui-css', 'http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/themes/smoothness/jquery-ui.css' );
+  wp_enqueue_style( 'jquery-ui-css', plugins_url( 'daily-logo/css/jquery-ui.css' ) );
 
 	// Enqueue thickbox CSS
 	wp_enqueue_style( 'thickbox');
