@@ -24,13 +24,15 @@ function daily_logo_search_logo( $year, $month, $day ) {
 
 	// Loop over rows
 	$logo = NULL;
-	foreach ( $rows as $row ) {
-		// Check logo date
-		if ( $row->year == $year && $row->month == $month && $row->day == $day ) {
-			// Date logo founded
-			$logo = $row;
-		}
-	}
+	if ( ! empty( $rows ) ) {
+		foreach ( $rows as $row ) {
+			// Check logo date
+			if ( $row->year == $year && $row->month == $month && $row->day == $day ) {
+				// Date logo founded
+				$logo = $row;
+			}
+		}	
+	}	
 
 	return $logo;
 }
