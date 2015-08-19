@@ -292,6 +292,9 @@ function daily_logo_save_settings() {
 	// Get settings options
 	$options = get_option( DLP_OPTION_SETTINGS );
 
+	// Create new class for settings options if empty
+	if ( ! isset( $options ) || empty( $options ) ) $options = new stdClass();
+
 	// Manage save actions
 	if ( $_POST['action'] != "restore" ) {
 		// Read post data
